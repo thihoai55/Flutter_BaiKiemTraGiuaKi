@@ -16,7 +16,7 @@ class _MyProfileState extends State<MyProfile> {
   String bio = 'Lập trình viên Flutter, thích xây ứng dụng đẹp và gọn.';
   String avatar = 'asset/anhhoai.jpg';
 
-  // --- THÔNG TIN MỚI VỀ HỌC VẤN ---
+  // --- THÔNG TIN MỚI VỀ HỌC VẤN của môn di ododngj ---
   String subject = 'Lập trình di động - Nhóm 4';
   String lecturer = 'Nguyễn Dũng';
   String major = 'Công nghệ thông tin';

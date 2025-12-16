@@ -48,7 +48,7 @@ class NewsListPage extends StatelessWidget {
                 return NewsItem(article: articles[index]);
               },
             );
-          }
+          } 
         },
       ),
     );
